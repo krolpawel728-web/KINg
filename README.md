@@ -1,0 +1,2 @@
+# KINg
+Aplikacja płatnicza 
